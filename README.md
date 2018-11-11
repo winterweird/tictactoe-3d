@@ -1,3 +1,4 @@
+**UPDATE:** Live version (implemented using JavaScript) now available at [vegarditland.com/tictactoe3d](https://vegarditland.com/tictactoe3d)!
 # Tic-Tac-Toe 3D
 
 **DISCLAIMER:** I don't know if anyone else have thought of this before, but admittedly, I haven't looked. This was something which was brought about by a discussion with a couple of friends of mine, and draws inspiration for that as well as from the game [Ultimate Tic-Tac-Toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/).
